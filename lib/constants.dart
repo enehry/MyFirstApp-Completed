@@ -1,0 +1,3 @@
+const String kMission = 'The leading University in human resource development, knowledge and technology generation and environmental stewardship';
+const String kVision = 'The University of Rizal System is committed to nurture and produce upright and competent graduates and empowered community through relevant and sustainable higher professional and technical instruction, research, extension and production services.';
+const String kQP = 'The University of Rizal System commits to deliver excellent products and services to ensure total stakeholders’ satisfaction in instruction, research, extension, production and dynamic administrative support and to continuously improve its Quality Management System processes to satisfy all applicable requirements.';
