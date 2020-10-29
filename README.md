@@ -1,20 +1,14 @@
-<<<<<<< HEAD
 # MyFirstApp
-=======
-# my_first_app
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 3afe84a... StatelessWidget
+MyFirstApp is an app that used in flutter tutorial in URS Binangonan this app teach the students to learn flutter basic widgets
+## Topic that should be discuss and learn
+* Widget – Way of declaring or constructing a UI. Not just only a UI, it also help to define the design ex. row and column, center widget.
+* Material App 
+* Stateless Widget – data less static widgets
+* Scaffold
+* Grid System / Layout – rows and column
+* Image assets – implement image
+* MaterialPageRoute
+* Fonts
+## Output after the lesson
+<img src="https://github.com/enehry/MyFirstApp-Completed/blob/main/sample.jpg" width="350" title="hover text">
+<img src="https://github.com/enehry/MyFirstApp-Completed/blob/main/screenshot.png" width="350" title="hover text">
