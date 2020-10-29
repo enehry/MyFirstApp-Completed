@@ -1,14 +1,9 @@
 import 'package:flutter/material.dart';
+import 'file:///C:/FlutterProjects/my_first_app/lib/Screens/main_screen.dart';
 
 void main() {
-  runApp(MainScreen());
+  runApp(MaterialApp(
+    home: MainScreen()
+  ));
 }
 
-class MainScreen extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(),
-    );
-  }
-}
