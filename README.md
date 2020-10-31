@@ -9,6 +9,7 @@ MyFirstApp is an app that used in flutter tutorial in URS Binangonan this app te
 * Image assets – implement image
 * MaterialPageRoute
 * Fonts
+* Launcher Icon
 ## Output after the lesson
 <img src="https://github.com/enehry/MyFirstApp-Completed/blob/main/sample.jpg" width="350" title="hover text">
 <img src="https://github.com/enehry/MyFirstApp-Completed/blob/main/screenshot.png" width="350" title="hover text">
